@@ -1,2 +1,2 @@
-First text in file
-Take up 2 lines
+Hello darkness, my old friend
+I've come to talk with you again
